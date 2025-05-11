@@ -17,8 +17,8 @@ requests
 Technologies Used
 python 3.9.6
 Project Setup Instructions
-git clone the repository
-https://github.com/steve-njuguna-kDjango-Netflix-Clone.git
+
+
 cd into Django-Netflix-Clone
 cd Django-Netflix-Clone
 create a virtual env
